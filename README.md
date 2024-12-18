@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Project_stage-Work_in_progress-orange)
 
 # assets-public
-Assets dashboards and links
+Assets for dashboards and links.
 
 
 ## Trademark Legal Notices
