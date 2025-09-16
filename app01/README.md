@@ -2,6 +2,7 @@
 
 ## app1: gobzigh-for-shelly
 
+File name length including extension must not exceed 10 characters
 
 # Icon Links
 
