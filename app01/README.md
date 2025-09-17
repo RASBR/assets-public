@@ -54,26 +54,26 @@ Assets are in the public repository mentioned in the below example:
 
 ## Level Icons (diesel and water level indicators)
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel0.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel0.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel1.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel1.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel2.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel2.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel3.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel3.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel4.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel4.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel5.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/diesel5.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water0.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water0.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water1.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water1.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water2.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water2.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water3.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water3.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water4.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water4.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true
 
-<img src="https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water5.png?raw=true" width="64" height="64"> https://github.com/RASBR/gobzigh-for-shelly/blob/main/assets/app01/water5.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true
