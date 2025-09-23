@@ -14,6 +14,12 @@ Assets are in the public repository mentioned in the below example:
 
 ## All Icons in assets/app01 folder
 
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/oil-barrel.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/oil-barrel.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true
+
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/c1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/c1.svg?raw=true
