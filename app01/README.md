@@ -14,19 +14,58 @@ Assets are in the public repository mentioned in the below example:
 
 ## All Icons in assets/app01 folder
 
+### Logos
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true
+
+
+### Water Level
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true
+
+### Fuel Level
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true
+
+### Tanks
+
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/oil-barrel.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/oil-barrel.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true
-
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true
 
+### Messages
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/message-128.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-128.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/message-256.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-256.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true
+
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/cloud-alert.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/cloud-alert.svg?raw=true
 
@@ -37,10 +76,6 @@ Assets are in the public repository mentioned in the below example:
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/alert-1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/alert-1.svg?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/wifi.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/wifi.svg?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/certificate.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/certificate.svg?raw=true
 
@@ -66,28 +101,3 @@ Assets are in the public repository mentioned in the below example:
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/intenet.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/intenet.svg?raw=true
 
-## Level Icons (diesel and water level indicators)
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel0.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel1.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel2.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel3.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel4.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/diesel5.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water0.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water1.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water2.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water3.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water4.png?raw=true
-
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/water5.png?raw=true
