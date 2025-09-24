@@ -8,7 +8,7 @@ File name length including extension must not exceed 10 characters
 
 Assets are in the public repository mentioned in the below example:
 
-**Example:** "https://github.com/RASBR/assets-public/blob/main/app01/g1.png?raw=true"
+**Example:** "https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true"
 
 # Icon Links
 
@@ -18,7 +18,7 @@ Assets are in the public repository mentioned in the below example:
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-2.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/level-alert-water.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true
 
@@ -28,43 +28,43 @@ Assets are in the public repository mentioned in the below example:
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/cloud-alert.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/cloud-alert.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/c1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/c1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/cloud-check.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/cloud-check.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/e1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/e1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/alert-2.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/alert-2.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/e2.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/e2.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/alert-1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/alert-1.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/f1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/f1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/wifi.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/wifi.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/g1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/g1.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-white.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/g2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/g2.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/gobzigh-tranparent.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/certificate.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/certificate.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i2.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i2.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/droplet.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/droplet.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i3.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i3.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/id.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/id.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i4.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i4.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/id-badge.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/id-badge.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i5.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i5.png?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/globe.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/globe.png?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i6.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i6.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/ruler-width.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/ruler-width.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i7.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i7.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/ruler-angle.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/ruler-angle.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i8.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i8.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/ruler-height.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/ruler-height.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/i9.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/i9.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/percent-1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/percent-1.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/p1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/p1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/percent-2.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/percent-2.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/r1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/r1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/refresh.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/refresh.svg?raw=true
 
-<img src="https://github.com/RASBR/assets-public/blob/main/app01/u1.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/u1.svg?raw=true
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/intenet.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/intenet.svg?raw=true
 
 ## Level Icons (diesel and water level indicators)
 
