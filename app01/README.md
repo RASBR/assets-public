@@ -18,7 +18,15 @@ Assets are in the public repository mentioned in the below example:
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-1.png?raw=true
 
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-water-2.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-water-2.png?raw=true
+
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/tank-fuel-1.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/message-128.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-128.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/message-256.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-256.png?raw=true
+
+<img src="https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/message-512.png?raw=true
 
 <img src="https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true" width="64" height="64"> https://github.com/RASBR/assets-public/blob/main/app01/c0.svg?raw=true
 
